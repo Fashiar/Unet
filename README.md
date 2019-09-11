@@ -33,3 +33,5 @@ This project is divided into two part:
       ii) Run the demo.ipynb or main.py file to see the implementation
       
 The model.py file contains the Unet model
+
+Note: In case for failing to load the demo.ipynb file, go to https://nbviewer.jupyter.org/ and paste https://github.com/Fashiar/Unet/blob/master/demo.ipynb into the box, then click on "GO"!!!
